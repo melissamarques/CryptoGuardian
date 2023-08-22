@@ -19,7 +19,7 @@ pip install cryptoguardian
 ### Uso
 
 ```
-import cryptoguardian
+from cryptoguardian import CryptoGuardian
 ```
 
 # Crie uma instância do CryptoGuardian
